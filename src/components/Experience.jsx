@@ -4,11 +4,8 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javaScript.png";
 import reactImage from "../assets/react.png";
-import kotlin from "../assets/kotlin.png";
 import mysql from "../assets/mysql.png";
 import github from "../assets/github.png";
-import tailwind from "../assets/tailwind.png";
-import bootstrap from "../assets/bootstrap.png";
 
 const Experience = () => {
   const techs = [
@@ -37,33 +34,15 @@ const Experience = () => {
       style: "shadow-blue-600",
     },
     {
-      id: 5,
-      src: tailwind,
-      title: "Tailwind",
-      style: "shadow-sky-400",
-    },
-    {
       id: 6,
-      src: kotlin,
-      title: "Kotlin",
-      style: "shadow-white",
-    },
-    {
-      id: 7,
       src: mysql,
       title: "MySql",
       style: "shadow-pink-400",
     },
     {
-      id: 8,
+      id: 7,
       src: github,
       title: "GitHub",
-      style: "shadow-gray-400",
-    },
-    {
-      id: 9,
-      src: bootstrap,
-      title: "Bootstrap",
       style: "shadow-gray-400",
     },
   ];
@@ -73,8 +52,8 @@ const Experience = () => {
       name="experience"
       className="bg-gradient-to-b from-gray-800 to-black w-full h-screen"
     >
-      <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white ">
-        <div className=" mt-32">
+      <div className="max-w-screen-lg mx-auto p-4  flex flex-col justify-center w-full h-full text-white">
+        <div>
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Experience
           </p>
