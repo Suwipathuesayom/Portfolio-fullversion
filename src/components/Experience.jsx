@@ -4,7 +4,7 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javaScript.png";
 import reactImage from "../assets/react.png";
-import mysql from "../assets/mysql.png";
+import kotlin from "../assets/kotlin.png";
 import github from "../assets/github.png";
 
 const Experience = () => {
@@ -35,8 +35,8 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: mysql,
-      title: "MySql",
+      src: kotlin,
+      title: "Kotlin",
       style: "shadow-pink-400",
     },
     {

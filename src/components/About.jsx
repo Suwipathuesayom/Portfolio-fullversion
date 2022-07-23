@@ -14,12 +14,10 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-10">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          Name Suwipa Thuesayom (Toey) I am a new graduate who is always
+          intention and eager to search new experiences. I am ready to learn and
+          develop myself, so I'm looking for an organization that can use my
+          knowledge and abilities to the organization.
         </p>
       </div>
     </div>
