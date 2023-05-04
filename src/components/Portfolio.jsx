@@ -1,8 +1,11 @@
 import React from "react";
-import leaderboard from "../assets/portfolio/leaderboard.jpg";
+import leaderboard from "../assets/portfolio/imageLead.png";
 import authreact from "../assets/portfolio/authreact.jpg";
 import mobileapp from "../assets/portfolio/mobileApp.jpg";
-import mobilestore from "../assets/portfolio/mobileStore.jpg";
+// import mobilestore from "../assets/portfolio/mobileStore.jpg";
+import wordpressticket from "../assets/portfolio/ticket.png";
+import wordpressbuiltdee from "../assets/builtdee.png"
+import phpappointment from "../assets/appointmentismile.jpeg"
 
 const Portfolio = () => {
   const portfolios = [
@@ -24,12 +27,31 @@ const Portfolio = () => {
       title: "MobileApp",
       database: "Fierbase",
     },
+    // {
+    //   id: 4,
+    //   src: mobilestore,
+    //   title: "HTML CSS ",
+    //   database: "JAVASCRIPT",
+    // },
     {
-      id: 4,
-      src: mobilestore,
-      title: "MobileStore",
-      database: "",
+      id: 5,
+      src: wordpressticket,
+      title: "Ticket Websit",
+      database: "Wordpress"
     },
+    {
+      id: 6,
+      src: wordpressbuiltdee,
+      title: "Builtdee Websit",
+      database: "Wordpress"
+    },
+    {
+      id: 7,
+      src: phpappointment,
+      title: "Ismile Clinic Appointment",
+      database: "PHP MYSQL"
+    }
+
   ];
 
   return (
