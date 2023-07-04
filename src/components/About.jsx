@@ -14,10 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-10">
-          Name Suwipa Thuesayom (Toey) I am a new graduate who is always
-          intention and eager to search new experiences. I am ready to learn and
-          develop myself, so I'm looking for an organization that can use my
-          knowledge and abilities to the organization.
+          Hi, my name is Suwipa Thuesayom (Toey), I'm interested in programming and web developer, I have experience with programming and have knowledge with html css javascript php mysql and anothor skills, I will untiliz these skills and experience to contribute to your company and continue to improve myself all the time. take on extra responsibilities. and grow professionallity. thankyou
         </p>
       </div>
     </div>
